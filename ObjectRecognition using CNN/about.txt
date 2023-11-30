@@ -1,1 +1,2 @@
-
+data used is availabe here : https://www.cs.toronto.edu/~kriz/cifar.html
+thae kaggle version maybe accessed here : https://www.kaggle.com/c/cifar-10/
